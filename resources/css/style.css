@@ -1,3 +1,8 @@
+body{
+    background-color: black;
+}
+
+
 h1 {
     font-family: Verdana;
     font-size: 50px;
@@ -7,12 +12,51 @@ h1 {
 }
 
 h2 {
-
-font-weight: 300;
+    font-family: Verdana;
+font-weight: bold;
 font-size: 42px;
+text-align: center;
+}
+
+.link {
+    font-family: Verdana;
+    font-size: 16px;
+}
+
+.subtitle {
+    font-family: Verdana;
+        font-size: 21px;
+        color: grey;
+        text-align: center;
 
 }
-#link {
+a{
     color: aquamarine;
-    font-size: 16px;
+}
+
+p{
+    text-align: center;
+}
+
+.camp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.phone{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+  
+}
+
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+
 }
