@@ -60,3 +60,9 @@ video{
     margin-top: 50px;
 
 }
+    
+.copyright{
+    font-family: Verdana;
+    color:gray;
+    text-align: right;
+}
